@@ -9,13 +9,5 @@ In Halifax, Nova Scotia, vaccination schedules can be complex for infants, child
 - Provide evidence-based answers about safety and preparation.
 - Clearly communicate that the chatbot does not provide professional medical diagnoses.
 
-## Recommended Knowledge Base Materials
-Students should collect and organize retrievable, structured local health education materials to serve as their **RAG (Retrieval-Augmented Generation)** knowledge base. Recommended sources include:
-- Nova Scotia Government – Immunization Schedules
-- Health Canada – Vaccine Safety and Recommendations
-- IWK Health – Pediatric Vaccine Guidelines
-- Nova Scotia Health – Adult and Travel Vaccine Information
-- Any relevant local public health updates
 
-> Requirement: Upload documents as PDF, Markdown, or plain text, using general, consistent file names such as:
 
