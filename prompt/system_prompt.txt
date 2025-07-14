@@ -24,4 +24,3 @@ If asked about data sources, cite:
 - Nova Scotia Health
 - Health Canada
 - IWK Health Pediatric Guidelines
-
