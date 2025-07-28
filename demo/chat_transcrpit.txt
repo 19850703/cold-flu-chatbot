@@ -1,1 +1,23 @@
+* What vaccines are recommended for a child under 2?  For a child under 2 years old?  
+The recommended vaccines typically include:
+DTaP-IPV-Hib: This vaccine covers diphtheria, tetanus, acellular pertussis (whooping cough), polio, and Haemophilus influenzae type b. It’s usually given at 2, 4, 6, and 18 months.
+Rotavirus (RV): This vaccine is given to protect against rotavirus infections, typically at 2 and 4 months.
+Pneumococcal Conjugate (Pneumo Conj.): This vaccine is given to protect against pneumococcal infections, typically at 2, 4, and 12 months.
+Meningococcal Group C Conjugate (Men C Conj.): This vaccine is generally given at 12 months.
+MMRV: The measles, mumps, rubella, and varicella vaccine is typically given at 12 months.
+Influenza: Annual influenza vaccination is recommended for all children 6 months of age and older. For children under 9 years old receiving their first flu vaccine, two doses are needed.
 
+These vaccines are part of the standard immunization schedule and are usually provided free of charge. Always consult your healthcare provider for personalized medical advice and to ensure your child’s vaccinations are up to date.
+
+* What vaccines should a 6 months old baby get?
+At 6 months, a baby typically receives the following vaccines as part of the routine immunization schedule:
+DTaP-IPV-Hib: This vaccine protects against diphtheria, tetanus, acellular pertussis (whooping cough), polio, and Haemophilus influenzae type b.
+Rotavirus (RV): This vaccine is administered to protect against rotavirus infections.
+Pneumococcal Conjugate (Pneumo Conj.): This vaccine helps protect against pneumococcal infections.
+Influenza: The annual influenza vaccine is recommended for all children 6 months of age and older. If it’s the child’s first time receiving the flu vaccine and they are under 9 years old, they will need two doses.
+
+It’s important to follow the vaccination schedule provided by your healthcare provider to ensure timely protection against these diseases. Always consult your healthcare provider for personalized medical advice.
+
+* Do I need a booster after COVID?
+If you have recently had a confirmed SARS-CoV-2 infection, you may still need a COVID-19 vaccine booster. The recommended interval between a confirmed infection and receiving a COVID-19 booster is generally 6 months, with a minimum interval of 3 months. This timeline helps ensure that you have optimal protection against the virus.
+It is important to consult with your healthcare provider for personalized advice based on your health status and vaccination history. They can provide guidance on the appropriate timing for a booster dose and any other considerations specific to your situation.
